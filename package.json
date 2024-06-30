@@ -1,0 +1,23 @@
+{
+  "name": "rabbitmq-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditya170700/rabbitmq-nodejs.git"
+  },
+  "author": "Aditya Ricki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aditya170700/rabbitmq-nodejs/issues"
+  },
+  "homepage": "https://github.com/Aditya170700/rabbitmq-nodejs#readme",
+  "description": "",
+  "dependencies": {
+    "@types/amqplib": "^0.10.5",
+    "amqplib": "^0.10.4"
+  }
+}
